@@ -49,17 +49,17 @@
             <a href="#reservation" class="navbar-link hover-underline">
               <div class="separator"></div>
 
-              <span class="span">Reservation</span>
+              <span class="span">Contact Us</span>
             </a>
           </li>
 
-          <li class="navbar-item">
+          {{-- <li class="navbar-item">
             <a href="#" class="navbar-link hover-underline">
               <div class="separator"></div>
 
               <span class="span">Contact</span>
             </a>
-          </li>
+          </li> --}}
           <li class="navbar-item">
             <a href="#event" class="navbar-link hover-underline">
               <div class="separator"></div>
